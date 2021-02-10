@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "acr-eventgrid-subscriber": {
+      "commandName": "Project",
+      "commandLineArgs": "subscribe -c connectionstring-test --queue-name testquey"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Azure.Samples.ACR.EventGrid", "Azure.Samples.ACR.EventGrid.csproj", "{1C041364-60C1-43C5-92B5-0DAA2B45A947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C041364-60C1-43C5-92B5-0DAA2B45A947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C041364-60C1-43C5-92B5-0DAA2B45A947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C041364-60C1-43C5-92B5-0DAA2B45A947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C041364-60C1-43C5-92B5-0DAA2B45A947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33BB3212-244F-4997-9111-AF347CDB3B85}
+	EndGlobalSection
+EndGlobal
